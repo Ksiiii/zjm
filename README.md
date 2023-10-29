@@ -16,4 +16,5 @@
 
 本文主要实现Adagrad算法、RMSProp算法、Adam算法，和简单的参数初始化、批量规范化和层归一化。
 
-
+本人运行代码的环境是Python 3.7.16和torch版本如下：<img width="325" alt="image" src="https://github.com/Ksiiii/zjm/assets/139730257/f7972ca5-f5f3-4cc1-a8e1-cda8945f5a75">
+其他版本只要相对应torch和cuda应该可以运行
